@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello World
 ==================
 
@@ -76,3 +77,9 @@ templated JS can use, specifically:
 Here the `lang` will be the locale's language, for example `en` or `en_US`.  The `lang_dir` variable will be
 the direction of the language (`rtl` or `ltr`).  Finally, the `gettext` function allows a string to be retrieved
 from the locale using an ID.  The ID used should match one in the `<key>...</key>` portion of the .plist file.
+=======
+ambarella
+=========
+
+simple expriment with localization and templates
+>>>>>>> cc28abd99922ba45d45c3e6e437471fcc5e82549
